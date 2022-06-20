@@ -22,8 +22,9 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{65CD2F4A-21A3-4ABA-B3EB-663644C9CFDE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>BoostTester</RootNamespace>
+    <RootNamespace>BoostTesterMannix</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>BoostTesterMannix</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
